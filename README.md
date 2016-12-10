@@ -1,2 +1,4 @@
 # libGDXPong
-Simple Pong game implemented with libGDX
+libGDXPong is an implementation of the known game Pong
+
+*Developed by @manuelrdsg*
