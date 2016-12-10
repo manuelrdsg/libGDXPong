@@ -1,0 +1,12 @@
+
+unamed.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player_bar
+  rotate: false
+  xy: 1, 1
+  size: 8, 71
+  orig: 8, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+textures_pong.png
+size: 1302, 720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background_PONG
+  rotate: false
+  xy: 0, 0
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 1280, 0
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+player_bar
+  rotate: false
+  xy: 1294, 0
+  size: 8, 71
+  orig: 8, 71
+  offset: 0, 0
+  index: -1
